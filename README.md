@@ -149,19 +149,19 @@ Specializing in **high-throughput microservices architecture** and **cutting-edg
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayakrishnaKarri&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KarriJayakrishna&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayakrishnaKarri&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarriJayakrishna&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" height="200"/>
 </p>
 
 <br>
 
 **🏆 GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayakrishnaKarri&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KarriJayakrishna&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 </div>
