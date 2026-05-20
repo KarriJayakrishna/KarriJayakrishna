@@ -20,8 +20,8 @@
 
 [cite_start]Currently, I am fusing production-grade backend discipline with cutting-edge Agentic AI engineering[cite: 6]. [cite_start]I specialize in bridging heavy-duty distributed architectures (Spring Boot, Kafka) with intelligent multi-agent workflows, standardized tools (Model Context Protocol), and advanced Retrieval-Augmented Generation (RAG) pipelines[cite: 5, 6, 24, 26].
 
-* [cite_start]🚀 **Enterprise Scale**: Experienced in managing large-scale platform metrics, reducing system incidents by 30%, and optimizing time-series data pipelines[cite: 11, 12, 13].
-* [cite_start]🤖 **AI Mindset**: Building deterministic, safe, and context-aware AI agents utilizing framework-level integrations like Spring AI and LangChain4j[cite: 6, 23].
+* [cite_start]🚀 Enterprise Scale: Experienced in managing large-scale platform metrics, reducing system incidents by 30%, and optimizing time-series data pipelines[cite: 11, 12, 13].
+* [cite_start]🤖 AI Mindset: Building deterministic, safe, and context-aware AI agents utilizing framework-level integrations like Spring AI and LangChain4j[cite: 6, 23].
 
 ---
 
@@ -66,24 +66,24 @@
 ## 🌟 Featured Projects
 
 ### ✈️ Multi-Agent AI Travel Planner
-> **[cite_start]Stack:** Google ADK, Java, Model Context Protocol (MCP), OpenAPI [cite: 30, 33]
+> [cite_start]**Stack:** Google ADK, Java, Model Context Protocol (MCP), OpenAPI[cite: 30, 33]
 
-* Developed a distributed multi-agent orchestration system containing dedicated Flight, Hotel, and Itinerary sub-agents operating in parallel[cite: 31, 32].
+* [cite_start]Developed a distributed multi-agent orchestration system containing dedicated Flight, Hotel, and Itinerary sub-agents operating in parallel[cite: 31, 32].
 * [cite_start]Integrated Model Context Protocol (MCP) for standardized tool architecture and OpenAPI tool integrations for real-time flight and hotel data[cite: 33].
 
 ### 🛍️ Smart E-Commerce Platform — AI Backend
-> **[cite_start]Stack:** Java, Spring Boot, Microservices, Kafka, JWT, Spring AI, PGVector, DALL-E 3, Google ADK, Grafana [cite: 38]
+> [cite_start]**Stack:** Java, Spring Boot, Microservices, Kafka, JWT, Spring AI, PGVector, DALL-E 3, Google ADK, Grafana[cite: 38]
 
-* Designed and built a microservices-based backend using Spring Boot and Kafka for asynchronous, event-driven order processing, secured with Spring Security JWT authentication and role-based authorization[cite: 39].
+* [cite_start]Designed and built a microservices-based backend using Spring Boot and Kafka for asynchronous, event-driven order processing, secured with Spring Security JWT authentication and role-based authorization[cite: 39].
 * [cite_start]Configured Kafka retry mechanisms and Dead Letter Queues (DLQ) to handle service failures and ensure eventual consistency across distributed services[cite: 40].
 * [cite_start]Extended the platform with Spring AI - added semantic product smart search using PGVector embeddings and hybrid keyword and vector retrieval for intelligent product discovery[cite: 41].
-* Integrated DALL-E 3 for AI product image generation and a ChatClient-backed conversational product assistant with multi-turn memory support[cite: 42].
+* [cite_start]Integrated DALL-E 3 for AI product image generation and a ChatClient-backed conversational product assistant with multi-turn memory support[cite: 42].
 * [cite_start]Deployed Google ADK order management agent with full observability via Grafana and Prometheus monitoring dashboards for production-grade reliability[cite: 43].
 
 ### 🤖 RAG Customer Support Bot
-> **[cite_start]Stack:** LangChain4j, Spring Boot, PGVector, RAG, Tool Calling [cite: 34]
+> [cite_start]**Stack:** LangChain4j, Spring Boot, PGVector, RAG, Tool Calling[cite: 34]
 
-* Developed a RAG-powered customer support chatbot using LangChain4j with PGVector as the vector store, enabling accurate FAQ answering from product documents[cite: 35].
+* [cite_start]Developed a RAG-powered customer support chatbot using LangChain4j with PGVector as the vector store, enabling accurate FAQ answering from product documents[cite: 35].
 * [cite_start]Implemented conversation memory using Message WindowChatMemory and agentic workflow routing that directs queries to specialized department agents[cite: 36].
 * [cite_start]Added tool calling for live order status checks and ticket creation, with input and output guardrails for production safety[cite: 37].
 
@@ -91,9 +91,9 @@
 
 ## 📜 Certifications
 
-* AWS Certified Cloud Practitioner - Amazon Web Services [cite: 45]
-* [cite_start]Mastering Agentic AI with Java - Telusko [cite: 46]
-* [cite_start]Spring Framework L3 Certification - Wipro [cite: 47]
+* [cite_start]AWS Certified Cloud Practitioner - Amazon Web Services[cite: 45]
+* [cite_start]Mastering Agentic AI with Java - Telusko[cite: 46]
+* [cite_start]Spring Framework L3 Certification - Wipro[cite: 47]
 
 ---
 
