@@ -27,9 +27,9 @@
 
 ## 💼 **Professional Summary**
 
-**🎯 Seasoned Java Backend Engineer with 4+ years of enterprise consulting experience**
+**🎯 Java Backend Engineer with 4+ years of enterprise consulting experience building scalable distributed systems using Java and the Spring Ecosystem**
 
-Specializing in **high-throughput microservices architecture** and **cutting-edge Agentic AI integration**. Expert in bridging traditional enterprise Java ecosystems with modern AI workflows, delivering **production-grade distributed systems** that reduce incidents by **30%** and optimize performance at scale.
+Specializing in **microservices architecture** and **cutting-edge Agentic AI integration**. Currently at the forforont of bridging traditional enterprise Java ecosystems with modern AI workflows, bringing **production-grade backend discipline** to AI-powered application development.
 
 **🔥 Unique Value Proposition:** Fusion of enterprise-grade Java backend discipline with advanced AI engineering capabilities
 
