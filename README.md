@@ -104,7 +104,7 @@ Specializing in **high-throughput microservices architecture** and **cutting-edg
 - Implemented **real-time data processing** from multiple travel service providers with **sub-second response times**
 - **Business Impact:** Reduced travel planning time by **75%** through intelligent agent coordination
 
-**🔗 [View Repository](#)** | **🚀 [Live Demo](#)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/Multi-Agent-AI-Travel-Planner.git)** | **🚀 [Live Demo](#)**
 
 ---
 
@@ -123,7 +123,7 @@ Specializing in **high-throughput microservices architecture** and **cutting-edg
 
 **📊 Business Impact:** Increased conversion rates by **25%** through AI-powered product discovery
 
-**🔗 [View Repository](#)** | **🚀 [Live Demo](#)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/Smart-E-Commerce-Platform-AI-Powered-Backend.git)** | **🚀 [Live Demo](#)**
 
 ---
 
@@ -141,7 +141,7 @@ Specializing in **high-throughput microservices architecture** and **cutting-edg
 
 **📊 Business Impact:** Reduced support ticket volume by **60%** and improved response time by **80%**
 
-**🔗 [View Repository](#)** | **🚀 [Live Demo](#)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/RAG-Customer-Support-Bot.git)** | **🚀 [Live Demo](#)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
