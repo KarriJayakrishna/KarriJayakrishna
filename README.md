@@ -27,13 +27,13 @@
 
 ## 💼 **Professional Summary**
 
-**🎯 Java Backend Engineer with 4+ years of enterprise consulting experience building scalable distributed systems using Java and the Spring Ecosystem**
+🎯 **Java Backend Engineer with 4+ years of enterprise consulting experience** building scalable distributed systems using **Java and the Spring Ecosystem**
 
-Specializing in **microservices architecture** and **cutting-edge Agentic AI integration**. Currently at the forefront of bridging traditional enterprise Java ecosystems with modern AI workflows, bringing **production-grade backend discipline** to AI-powered application development.
+Specializing in **microservices architecture** and **cutting-edge Agentic AI integration**. Currently at the **forefront** of bridging traditional enterprise Java ecosystems with modern AI workflows, bringing **production-grade backend discipline** to AI-powered application development.
 
-**🔥 Unique Value Proposition:** Fusion of enterprise-grade Java backend discipline with advanced AI engineering capabilities
+🔥 **Unique Value Proposition:** Fusion of enterprise-grade Java backend discipline with advanced AI engineering capabilities
 
-**🎯 Currently seeking:** `Java Backend Engineer` | `Java AI Engineer` | `Senior Java Backend Engineer` | `Java Spring Boot Microservices Consultant`
+🎯 **Currently seeking:** `Java Backend Engineer` | `Java AI Engineer` | `Senior Java Backend Engineer` | `Java Spring Boot Microservices Consultant`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -73,6 +73,7 @@ Specializing in **microservices architecture** and **cutting-edge Agentic AI int
 ### **🗄️ Databases & Vector Stores**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791"/>
   <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D"/>
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white&labelColor=22ADF6"/>
@@ -104,7 +105,7 @@ Specializing in **microservices architecture** and **cutting-edge Agentic AI int
 - Implemented **real-time data processing** from multiple travel service providers with **sub-second response times**
 - **Business Impact:** Reduced travel planning time by **75%** through intelligent agent coordination
 
-**🔗 [View Repository](https://github.com/KarriJayakrishna/Multi-Agent-AI-Travel-Planner.git)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/Multi-Agent-AI-Travel-Planner.git)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/Multi-Agent-AI-Travel-Planner)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/Multi-Agent-AI-Travel-Planner)**
 
 ---
 
@@ -123,7 +124,7 @@ Specializing in **microservices architecture** and **cutting-edge Agentic AI int
 
 **📊 Business Impact:** Increased conversion rates by **25%** through AI-powered product discovery
 
-**🔗 [View Repository](https://github.com/KarriJayakrishna/Smart-E-Commerce-Platform-AI-Powered-Backend.git)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/Smart-E-Commerce-Platform-AI-Powered-Backend.git)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/Smart-E-Commerce-Platform-AI-Powered-Backend)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/Smart-E-Commerce-Platform-AI-Powered-Backend)**
 
 ---
 
@@ -141,7 +142,7 @@ Specializing in **microservices architecture** and **cutting-edge Agentic AI int
 
 **📊 Business Impact:** Reduced support ticket volume by **60%** and improved response time by **80%**
 
-**🔗 [View Repository](https://github.com/KarriJayakrishna/RAG-Customer-Support-Bot.git)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/RAG-Customer-Support-Bot.git)**
+**🔗 [View Repository](https://github.com/KarriJayakrishna/RAG-Customer-Support-Bot)** | **🚀 [Live Demo](https://github.com/KarriJayakrishna/RAG-Customer-Support-Bot)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
